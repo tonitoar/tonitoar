@@ -1,6 +1,7 @@
 <p align=”center”>
 
-![Toni Torredemer Argilés](https://github.com/tonitoar/tonitoar/assets/129649659/d918bd7c-1a67-426b-aab7-01258249058f)
+![Toni Torredemer Argilés (3)](https://github.com/tonitoar/tonitoar/assets/129649659/1e3c3eb0-b1f5-4d3e-ada2-464534490a30)
+
 
 
 
