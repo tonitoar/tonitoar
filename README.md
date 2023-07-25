@@ -24,11 +24,11 @@
 
 These are some of my projects. Check them out: 
 
-[Phantom Runner](https://kitschest.github.io/phantom-runner/): Escape Room game in which you have to find the exit while dodging ghosts. Type "billy" to disable the fog and see the map and type "1234" to reset the fog. Created with Javascript Canvas 2D, visually edited with Aseprite pixel by pixel (map and ghosts). 
+- [Phantom Runner](https://kitschest.github.io/phantom-runner/): Escape Room game in which you have to find the exit while dodging ghosts. Type "billy" to disable the fog and see the map and type "1234" to reset the fog. Created with Javascript Canvas 2D, visually edited with Aseprite pixel by pixel (map and ghosts). 
 
-[Harry Popotter](https://github.com/tonitoar/Harry-Popotter): Harry Potter themed website where you can create your own wizard or witch. With several personality questions you will get your Harry Potter House (Gryffindor, Slytherin, ...). In addition, you can add different attributes (spells, wands, ...) and do some spell battles with other users. Created only with Node.js on the server side and MongoDB for the database. 
+- [Harry Popotter](https://github.com/tonitoar/Harry-Popotter): Harry Potter themed website where you can create your own wizard or witch. With several personality questions you will get your Harry Potter House (Gryffindor, Slytherin, ...). In addition, you can add different attributes (spells, wands, ...) and do some spell battles with other users. Created only with Node.js on the server side and MongoDB for the database. 
 
-[Event.io Front](https://github.com/tonitoar/eventio-front.git) & [Event.io Back](https://github.com/tonitoar/eventio-back): Complete event website where you can create an event (e.g. title, address, date, description, ...) and buy tickets for any event of your interest (that other users have created). Created with React for the client view, Node.js for the server side and MongoDB for the database. 
+- [Event.io Front](https://github.com/tonitoar/eventio-front.git) & [Event.io Back](https://github.com/tonitoar/eventio-back): Complete event website where you can create an event (e.g. title, address, date, description, ...) and buy tickets for any event of your interest (that other users have created). Created with React for the client view, Node.js for the server side and MongoDB for the database. 
 
 <br/><br/>
 
@@ -45,22 +45,19 @@ These are some of my projects. Check them out:
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
+<br/><br/>
+
 <p align="center">
 <!-- <img src="https://www.codewars.com/users/miguelpalospou/badges/large">-->
 </p>
+<p align="center">My GitHub Commit Streak 🚀</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tonitoar&theme=dark"></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tonitoar&show_icons=true&theme=dark"></p>
+
 <br/><br/>
-## GitHub Commit Streak 🚀
 
-![My Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonitoar&theme=dark)
-  
-Join my coding journey through a remarkable GitHub commit streak, forging progress and innovation with each day's dedication.
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonitoar&show_icons=true&theme=dark)](https://github.com/tonitoar)
-
-</p>
- 
-
-🛠 Some Tools I Use:
+🛠 Some Tools I use:
 <p align="center">
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
