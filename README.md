@@ -46,19 +46,19 @@ These are some of my projects. Check them out:
 </p>
 
 <p align="center">
-<img src="https://www.codewars.com/users/miguelpalospou/badges/large">
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelpalospou&theme=vue-dark&hide_border=true" alt="miguelpalospou's Streak">
+<!-- <img src="https://www.codewars.com/users/miguelpalospou/badges/large">-->
 </p>
+<br/><br/>
+## GitHub Commit Streak 🚀
 
+![My Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonitoar&theme=dark)
+  
+Join my coding journey through a remarkable GitHub commit streak, forging progress and innovation with each day's dedication.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonitoar&show_icons=true&theme=dark)](https://github.com/tonitoar)
 
-
-
-
-
-
-
+</p>
+ 
 
 🛠 Some Tools I Use:
 <p align="center">
