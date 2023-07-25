@@ -75,5 +75,4 @@ These are some of my projects. Check them out:
 Get in touch:
 
 * 📫 How to reach me: <a href = "mailto: toni.torredemer.argiles@gmail.com">toni.torredemer.argiles@gmail.com</a> or <a href="https://www.linkedin.com/in/toni-torredemer-argil%C3%A9s-61b444151/">LinkedIn</a>.
-* 🔭 I'm currently pursuing the full-time Data Analytics Bootcamp at Ironhack. Working as a freelance career coach at Wonsulting.
 * 💬 Always down for a coffe or a call to get to know each other!
